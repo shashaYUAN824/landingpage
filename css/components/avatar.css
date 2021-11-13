@@ -1,0 +1,18 @@
+.avatar{
+	width: 83px;
+    height: 106px;
+    border-radius: 48%;
+    align-items: center;
+    margin: auto;
+}
+.avatar img{
+ align-self: center;
+ margin:0 auto;
+
+}
+
+.container h2,h3,h4{
+  text-align: center;
+  align-items: center;
+  margin-bottom:20px;
+}

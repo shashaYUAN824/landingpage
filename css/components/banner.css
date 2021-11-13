@@ -1,0 +1,27 @@
+.banner{
+  background-image:linear-gradient(
+-225deg, #f1e7e700 0%, rgb(130 126 147 / 14%) 50%), url(../../images/commu1.jpeg);
+  padding: 150px 0px;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1{
+	font-size: 50px;
+	font: white;
+  text-align: center;
+}
+
+
+.banner h2{
+	font-size: 30px;
+	font-weight:lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+  color: white;
+  text-align: center;
+
+}
+.banner btn-blue{
+  text-align: center;
+}

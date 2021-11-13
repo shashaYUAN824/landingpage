@@ -1,0 +1,39 @@
+.container {
+	width: 700px
+	margin:10px;
+  align-items: center;
+}
+
+.container h2,h3{
+  align-items: center;
+  text-align: center;
+  color: #110d58;
+  line-height: 1.5;
+}
+
+.container h4{
+  font-weight: bolder;
+  text-align: center;
+  align-items: center;
+  color: gray;
+}
+
+
+@media (max-width: 900px) {
+.container {
+width: 650px;
+  }
+}
+
+@media (max-width: 720px) {
+.container {
+width: 500px;
+  }
+}
+
+
+@media (max-width: 540px) {
+.container {
+width: 300px;
+  }
+}
